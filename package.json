@@ -1,8 +1,12 @@
 {
-  "name": "gapi-firebase",
-  "author": "@timfee",
+  "name": "gapi-next-firebase-auth",
+  "author": {
+    "name": "Tim Feeley",
+    "email": "timfee@hey.com",
+    "url": "https://timfeeley.com"
+  },
   "license": "MIT",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "scripts": {
     "dev": "next dev",
     "build": "next build",
