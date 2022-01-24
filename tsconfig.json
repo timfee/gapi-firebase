@@ -37,7 +37,8 @@
       "@/layouts/*": [
         "./src/layouts/*"
       ]
-    }
+    },
+    "incremental": true
   },
   "exclude": [
     "node_modules",
