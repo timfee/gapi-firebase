@@ -29,7 +29,7 @@
     "express": "^4.17.2",
     "firebase": "^9.6.4",
     "firebase-admin": "^10.0.2",
-    "googleapis": "^92.0.0",
+    "googleapis": "^115.0.0",
     "next": "12.1.0",
     "next-firebase-auth": "0.14.1-alpha.0",
     "nookies": "^2.5.2",
